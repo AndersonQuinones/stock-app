@@ -1,0 +1,4 @@
+/* You can keep this minimal since Bootstrap is handling layout */
+.card-title {
+  font-weight: 600;
+}
